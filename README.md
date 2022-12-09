@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @manunesh
-- 👀 I’m interested in ...
+- 👀 I’m a computer science student
+
 
 
 <!---
